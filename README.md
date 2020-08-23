@@ -5,6 +5,8 @@ Vacation are rejuvenating, no doubt. But they can also change your lives 180 deg
 
 I have some savings from my career as a Data Analyst, but I will need some real investor backing to get this off the ground. So after putting together a strong business plan, I reached out to an investor ***W.Avy*** who is famous for his love of surfing. My first meeting with him goes extremely well but he has one concern. What about the weather? He's extremely serious about this. He invested in a surf shop early in this career, however, he didn't ask for any weather analysis and that early venture was rained out of existence. W.Avy knows my career as a Data Analyst, so asks whether I can run some analytics on a weather dataset he has from the very island where I want to open my shop: ***Oahu***. 
 
+And I answered - Why not?
+
 ## Purpose of this Analysis
 
 In the past, I have 
