@@ -51,21 +51,25 @@ There isn't as big a difference in the temperatures around the year as compared 
 2 additional queries that I would like to run based on the data provide by W.Avy are
 1. Write queries to get the temperature data for the month of March (spring) and September (fall). 
 
-Query to retrive March temperature summary
-```
-March_temperatures = session.query(Measurement).filter(extract('month', Measurement.date) == 3)
-March_temp_list = [temp.tobs for temp in March_temperatures]
-March_temp_df = pd.DataFrame(March_temp_list, columns=["March Temps"])
-March_temp_df.describe()
-```
-Query to retrive September temperature summary
-```
-September_temperatures = session.query(Measurement).filter(extract('month', Measurement.date) == 9)
-September_temp_list = [temp.tobs for temp in September_temperatures]
-September_temp_df = pd.DataFrame(September_temp_list, columns=["September Temps"])
-September_temp_df.describe()
-```
+    Query to retrive March temperature summary
+    ```
+    March_temperatures = session.query(Measurement).filter(extract('month', Measurement.date) == 3)
+    March_temp_list = [temp.tobs for temp in March_temperatures]
+    March_temp_df = pd.DataFrame(March_temp_list, columns=["March Temps"])
+    March_temp_df.describe()
+    ```
+    Query to retrive September temperature summary
+    ```
+    September_temperatures = session.query(Measurement).filter(extract('month', Measurement.date) == 9)
+    September_temp_list = [temp.tobs for temp in September_temperatures]
+    September_temp_df = pd.DataFrame(September_temp_list, columns=["September Temps"])
+    September_temp_df.describe()
+    ```
+    When the results of the queries above are added to the original queries, we get a very All-weather temperature comparision
+    
+    **Image 3 (below): Summary - All-weather Temperature**
 
+    ![June Temp Summary](./Resources/All_weather_temp_stats.png)
 
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
