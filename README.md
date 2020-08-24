@@ -66,7 +66,7 @@ Some additional queries that I would like to run based on the data provide by W.
     September_temp_df.describe()
     ```
 
-The result of these 2 queries when combined with the 2 original queries of this analysis will make my busienss case stronger, since now I will have data for all 4 weathers - Winter, Spring, Summer, Fall.
+The result of these 2 queries when combined with the 2 original queries of this analysis will make my busienss case stronger, since now I will have data for all 4 weathers - Winter, Spring, Summer, and Fall.
 
 **Image 3 (below): Summary - All-weather Temperature**
 
