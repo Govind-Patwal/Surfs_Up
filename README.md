@@ -46,30 +46,30 @@ Below are some differences in weather between June and December
 
 ## Summary
 
-There isn't as big a difference in the temperatures around the year as compared to other states in the US. This also explains why it is a top Tourist and Surfing Destination and why I want to open the **Surf n'Shake** shop there. 
+There isn't as big a difference between the June and December temperatures as compared to other states in the US. This also explains why it is a top Tourist and Surfing Destination and why I want to open the **Surf n'Shake** shop there. 
 
-2 additional queries that I would like to run based on the data provide by W.Avy are
-1. Write queries to get the temperature data for the month of March (spring) and September (fall). 
+Some additional queries that I would like to run based on the data provide by W.Avy are
 
-    Query to retrive March temperature summary
+1.  Query to retrive March (spring) temperature summary
+
     ```
     March_temperatures = session.query(Measurement).filter(extract('month', Measurement.date) == 3)
     March_temp_list = [temp.tobs for temp in March_temperatures]
     March_temp_df = pd.DataFrame(March_temp_list, columns=["March Temps"])
     March_temp_df.describe()
     ```
-    Query to retrive September temperature summary
+2. Query to retrive September (fall) temperature summary
     ```
     September_temperatures = session.query(Measurement).filter(extract('month', Measurement.date) == 9)
     September_temp_list = [temp.tobs for temp in September_temperatures]
     September_temp_df = pd.DataFrame(September_temp_list, columns=["September Temps"])
     September_temp_df.describe()
     ```
-    When the results of the queries above are added to the original queries, we get a very All-weather temperature comparision
-    
-    **Image 3 (below): Summary - All-weather Temperature**
 
-    ![June Temp Summary](./Resources/All_weather_temp_stats.png)
+The result of these 2 queries when combined with the 2 original queries of this analysis will make my busienss case stronger, since now I will have data for all 4 weathers - Winter, Spring, Summer, Fall.
 
+**Image 3 (below): Summary - All-weather Temperature**
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+![All-weather Temp Summary](./Resources/All_weather_temp_stats.png)
+
+3. I can also write queries to get the precipitation summary for these 4 months and show the output to the stakeholders.
