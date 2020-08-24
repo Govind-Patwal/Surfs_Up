@@ -33,7 +33,7 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
     **Image 2 (below): Summary - December Temperature**
 
-    ![June Temp Summary](./Resources/June_temp_stats.png)
+    ![June Temp Summary](./Resources/Dec_temp_stats.png)
 
 
 
