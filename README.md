@@ -40,7 +40,7 @@ Below are some differences in weather between June and December
 
 2. The difference in the ***Minimum*** temperatures is 8°F - with June at 64°F and December at 56°F
 
-3. The difference in ***Mean*** temperatures is 4°F - with June at 75°F and December at 71°F
+3. The difference in the ***Mean*** temperatures is 4°F - with June at 75°F and December at 71°F
 
 4. The ***Standard Deviation*** of June temperatures is 3.26°F which is less than the Standard Deviation of December temperatures wich is 3.75°F. Smaller standard deviation means that the June temperatures are closer to their mean as compared to December Temperatures. This combined with almost 200 more temperature counts for June means we can be a little more confident about the June temperatures to stay around the mean.
 
