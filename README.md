@@ -24,8 +24,6 @@ W. Avy liked the analysis, but he wants more information about temperature trend
 
     ![June Temp Summary](./Resources/June_temp_stats.png)
 
-
-
 5. In Step 5, write a query that filters the `date` column from the `Measurement` table to retrieve all the temperatures for the month of December.
 6. In Step 6, convert the December temperatures to a list.
 7. In Step 7, create a DataFrame from the list of temperatures for the month of December.
@@ -35,7 +33,7 @@ W. Avy liked the analysis, but he wants more information about temperature trend
 
     ![June Temp Summary](./Resources/Dec_temp_stats.png)
 
-
+## Analysis Results
 
 
 
