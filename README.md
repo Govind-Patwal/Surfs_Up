@@ -3,7 +3,7 @@
 ## Project Overview
 Vacation are rejuvenating, no doubt. But they can also change your lives forever. I say this becasue it happened to me. Last year, I went to Hawaii, and discovered a newfound passion for Surfing. I was planning something that will allow me not just to return to Hawaii but live there forever. I finally came up with an idea - A ***Surf n'Shake*** shop serving surfboards and ice cream to locals, tourists, and myself. 
 
-I have some savings from my career as a Data Analyst, but I will need some real investor backing to get this off the ground. So after putting together a strong business plan, I reached out to an investor ***W.Avy*** who is famous for his love of surfing. My first meeting with him goes extremely well but he has one concern. What about the weather? He's extremely serious about this. He invested in a surf shop early in this career, however, he didn't ask for any weather analysis and that early venture was rained out of existence. W.Avy knows my career as a Data Analyst, so asks whether I can run some analytics on a weather dataset he has from the very island where I want to open my shop: ***Oahu***. 
+I have some savings from my career as a Data Analyst, but I will need some real investor backing to get this off the ground. So after putting together a strong business plan, I reached out to an investor ***W.Avy*** who is famous for his love of surfing. My first meeting with him goes extremely well but he has one concern. What about the weather? He's extremely serious about this. He invested in a surf shop early in this career, however, he didn't ask for any weather analysis and that early venture was rained out of existence. W.Avy knows my career as a Data Analyst, so asks whether I can run some analytics on a weather dataset he has from the very island where I want to open my shop: ***O'ahu***. 
 
 And my answer - Will do !
 
@@ -11,7 +11,7 @@ And my answer - Will do !
 
 In the past, I have shared some analysis and graphs with W.Avy.
 
-W. Avy liked the analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+W. Avy liked the analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in O'ahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Analysis Steps
 
