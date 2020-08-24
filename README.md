@@ -35,8 +35,6 @@ W. Avy liked the analysis, but he wants more information about temperature trend
 
 ## Analysis Results
 
-Hawaii has a tropical climate, which means there isn't as big a difference in the temperature around the year as compared to other states in the US. This also explains why it is a top Tourist and Surfing Destination and why I want to open the **Surf n'Shake*** shop there.
-
 Below are some differences in weather between June and December
 1. The difference in the ***Maximum*** temperature is 2°F - with June at 85°F and December at 83°F. 
 
@@ -48,5 +46,6 @@ Below are some differences in weather between June and December
 
 ## Summary
 
+Hawaii has a tropical climate, which means there isn't as big a difference in the temperature around the year as compared to other states in the US. This also explains why it is a top Tourist and Surfing Destination and why I want to open the **Surf n'Shake** shop there.
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
