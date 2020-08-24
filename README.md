@@ -72,4 +72,4 @@ The result of these 2 queries when combined with the 2 original queries of this 
 
 ![All-season Temp Summary](./Resources/All_seasons_weather_temp_stats.png)
 
-3. I can also write queries to get the precipitation summary for these 4 months and show the output to the stakeholders.
+3. I can also write queries to get the precipitation summary for these 4 months and show the All-season output to the stakeholders.
