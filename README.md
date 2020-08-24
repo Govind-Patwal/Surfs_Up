@@ -35,6 +35,14 @@ W. Avy liked the analysis, but he wants more information about temperature trend
 
 ## Analysis Results
 
+Hawaii has a tropical climate, which means there isn't as big a difference in the temperature around the year as compared to other states in the U.S.
+
+Below are some differences in weather between June and December
+1. The difference in the maximum temperature is 2 degrees - with June at 85°F and Dec at 83°F
+
+2. The mean temperature of June is 75°F and that of December is 71°F
+
+3. The Standard deviation of June temperature is 3.26 which is less than the Standard Deviation of December wich is 3.75. Smaller standard deviation means that the June temperatures are closer to the mean as comapred to the December average. This combined with almost 200 more temperature counts for June means we can trust the values of June more than 
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
