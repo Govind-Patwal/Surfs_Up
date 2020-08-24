@@ -68,7 +68,7 @@ Some additional queries that I would like to run based on the data provide by W.
 
 The result of these 2 queries when combined with the 2 original queries of this analysis will make my busienss case stronger, since now I have the data for all 4 seasons - Winter, Spring, Summer, and Fall.
 
-**Image 3 (below): Summary - All-season Temperature**
+**Image 3 (below): Summary - All-season Temperatures**
 
 ![All-season Temp Summary](./Resources/All_seasons_weather_temp_stats.png)
 
